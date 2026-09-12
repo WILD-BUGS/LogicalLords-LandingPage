@@ -1,0 +1,6 @@
+{
+  "name": "Logical Lords",
+  "description": "An experimental software engineering collective founded by VarunRaj P, Vijay Kumar K, Sudharsan C, Vignesh R, Varunan K M, and Tamil Selvan. High-performance distributed systems, AI intelligence, and modern product engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
