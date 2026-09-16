@@ -204,7 +204,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  <strong>LOGICAL LORDS COLLECTIVE</strong><br />
-  <em>VarunRaj P · Vijay Kumar K · Sudharsan C · Vignesh R · Varunan K M · Tamil Selvan</em><br />
+  <strong>Wild Bugs</strong><br />
+  <em>Bug creation made without bugs</em><br />
   <sub>BUILT WITH PURPOSE // CRAFTED WITH OBSESSION</sub>
 </p>
