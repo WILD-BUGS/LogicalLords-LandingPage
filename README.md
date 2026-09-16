@@ -1,7 +1,9 @@
 <p align="center">
   <img src="./banner.png" alt="Logical Lords — Software Development & Intelligence Collective" width="100%" />
 </p>
-
+<p align="center">
+  Live Link : https://sixth-byte.ai.studio
+</p>
 <p align="center">
   <strong>A SOFTWARE DEVELOPMENT & INTELLIGENCE COLLECTIVE // SIX FOUNDERS · DUAL-ENGINE CORE</strong>
 </p>
